@@ -1,0 +1,9 @@
+{
+  "name": "create-thumbnail-from-video",
+  "version": "1.0.0",
+  "description": "Creates a thumbnail image from a video",
+  "main": "index.js",
+  "repository": "https://github.com/gbolu/thumbnail-from-video.git",
+  "author": "Gbolu Adeyemi",
+  "license": "MIT"
+}
